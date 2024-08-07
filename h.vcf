@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Valsaraj;Hemanth;
+FN:Hemanth Valsaraj
+ORG:CareStack;
+TEL;TYPE=mobile;TYPE=pref:33333
+TEL;TYPE=work:333
+EMAIL;TYPE=INTERNET;TYPE=HOME:hemanthvalsaraj@gmail.com
+TITLE:Lead
+URL:https://carestack.com
+END:VCARD
